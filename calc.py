@@ -1,3 +1,5 @@
 def add(a,b):
     return a+b
-print(add(7,8))
+
+def sub(a,b):
+    return a-b
